@@ -263,18 +263,18 @@ const styles = StyleSheet.create({
     marginTop: 10,
   },
   logoutContainer: {
-    flexDirection: "row", // Aligns the icon and text horizontally
-    alignItems: "center", // Vertically center them
+    flexDirection: "row",
+    alignItems: "center",
   },
   logoutIcon: {
-    marginRight: 8, // Add space between icon and text
-    fontWeight: "bold", // Not used for icons, but ensure it's properly sized
+    marginRight: 8,
+    fontWeight: "bold",
   },
   logoutText: {
     color: "red",
     fontSize: 12,
-    fontWeight: "bold", // Makes the text bold
-    fontFamily: "OpenSans-Bold", // Ensures bold font is applied
+    fontWeight: "bold",
+    fontFamily: "OpenSans-Bold",
   },
 
   logoutArrowBox: {
